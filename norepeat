@@ -1,0 +1,5 @@
+#!/bin/sh
+
+for key in 67 68 69; do
+	xset -r $key
+done
